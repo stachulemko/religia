@@ -1,0 +1,11 @@
+Imię,Nazwisko,Data urodzenia,Parafia chrztu,Imię z bierzmowania,Świadek bierzmowania
+Anna,Kowalska,1990-05-15,Parafia Świętego Jana Chrzciciela,Anna,Marek Nowak
+Piotr,Nowak,1985-08-22,Parafia św. Józefa,Adam,Katarzyna Wiśniewska
+Karolina,Wiśniewska,1988-11-03,Parafia Najświętszej Maryi Panny,Joanna,Marcin Kowalczyk
+Tomasz,Kowalczyk,1993-04-18,Parafia Świętej Rodziny,Tomasz,Monika Lewandowska
+Katarzyna,Lewandowska,1996-09-27,Parafia św. Wojciecha,Katarzyna,Adam Nowak
+Marek,Nowak,1980-12-10,Parafia św. Barbary,Michał,Anna Kowalska
+Monika,Kowalska,1992-07-08,Parafia Świętego Jana Pawła II,Monika,Piotr Wiśniewski
+Adam,Wiśniewski,1983-02-25,Parafia św. Kazimierza,Patrycja,Tomasz Kowalczyk
+Joanna,Kowalczyk,1995-06-30,Parafia Najświętszego Serca Pana Jezusa,Krzysztof,Karolina Wiśniewska
+Marcin,Wiśniewski,1987-10-12,Parafia Świętego Floriana,Anita,Piotr Nowak
