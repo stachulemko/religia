@@ -84,6 +84,7 @@ def add_row():
         entry.pack(side=tk.LEFT)
 
         entries.append(entry)
+        
     
 
 
